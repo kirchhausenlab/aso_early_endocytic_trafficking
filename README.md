@@ -18,7 +18,7 @@ This repository contains Fiji/ImageJ macros for multichannel image registration 
 Performs affine registration of fluorescence channels in three-channel 3D image stacks using MultiStackReg.
 
 ### quantify_endosomal_fluorescence_3d.ijm
-Segments 3D objects using a primary-channel mask and quantifies object volume, fluorescence intensity in two channels, and the intersection between the primary objects and the secondary-channel mask.
+Identifies individual 3D endosomal objects from a binary primary-channel mask and quantifies object volume, fluorescence intensity in two channels, and mask overlap, providing measurements for downstream ratiometric analysis.
 
 ## Requirements
 
