@@ -1,2 +1,27 @@
 # aso_early_endocytic_trafficking
 Code associated with the paper "Naked antisense oligonucleotides access the cytosol during early endocytic trafficking"
+
+
+# Naked Antisense Oligonucleotide Endocytic Trafficking
+
+Code associated with:
+
+*Naked antisense oligonucleotides access the cytosol during early endocytic trafficking.* Nucleic Acids Research.
+
+## Overview
+
+This repository contains Fiji/ImageJ macros for multichannel image registration and 3D quantification of fluorescence intensity and ratiometric measurements within endosomes.
+
+## Included scripts
+
+### register_multichannel_stacks.ijm
+Performs affine registration of fluorescence channels in three-channel 3D image stacks using MultiStackReg.
+
+### quantify_endosomal_fluorescence_3d.ijm
+Segments 3D objects using a primary-channel mask and quantifies object volume, fluorescence intensity in two channels, and the intersection between the primary objects and the secondary-channel mask.
+
+## Requirements
+
+- Fiji/ImageJ
+- MultiStackReg plugin
+- 3D ImageJ Suite / 3D Manager
