@@ -1,4 +1,4 @@
-# Naked Antisense Oligonucleotide Endocytic Trafficking
+# aso_early_endocytic_trafficking
 
 Code associated with:
 
