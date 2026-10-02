@@ -1,12 +1,8 @@
-# aso_early_endocytic_trafficking
-Code associated with the paper "Naked antisense oligonucleotides access the cytosol during early endocytic trafficking"
-
-
 # Naked Antisense Oligonucleotide Endocytic Trafficking
 
 Code associated with:
 
-Sitarska, Ewa ; Saminathan, Anand ; Scanavachi, Gustavo ; Somerville, Elliott ; Stock, Patrick; Shen, Pengxiang; Kahne, Daniel; Courtney, Margo F; Reid, Dylan A; Danielsen, Mathias ; Davidsen, Fie; Jensen, Knud ; Bennett, C. Frank; Kirchhausen, Tom 2026 *Naked antisense oligonucleotides access the cytosol during early endocytic trafficking.* Nucleic Acids Research.
+Sitarska E, Saminathan A, Scanavachi G, Somerville E, Stock P, Shen P, Kahne D, Courtney MF, Reid DA, Danielsen M, Davidsen F, Jensen K, Bennett CF, Kirchhausen T (2026) Naked antisense oligonucleotides access the cytosol during early endocytic trafficking. Nucleic Acids Research.
 
 ## Overview
 
@@ -22,6 +18,6 @@ Identifies individual 3D endosomal objects from a binary primary-channel mask an
 
 ## Requirements
 
-- Fiji/ImageJ
+Fiji/ImageJ with:
 - MultiStackReg plugin
 - 3D ImageJ Suite / 3D Manager
