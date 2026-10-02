@@ -6,7 +6,7 @@ Code associated with the paper "Naked antisense oligonucleotides access the cyto
 
 Code associated with:
 
-*Naked antisense oligonucleotides access the cytosol during early endocytic trafficking.* Nucleic Acids Research.
+Sitarska, Ewa ; Saminathan, Anand ; Scanavachi, Gustavo ; Somerville, Elliott ; Stock, Patrick; Shen, Pengxiang; Kahne, Daniel; Courtney, Margo F; Reid, Dylan A; Danielsen, Mathias ; Davidsen, Fie; Jensen, Knud ; Bennett, C. Frank; Kirchhausen, Tom 2026 *Naked antisense oligonucleotides access the cytosol during early endocytic trafficking.* Nucleic Acids Research.
 
 ## Overview
 
